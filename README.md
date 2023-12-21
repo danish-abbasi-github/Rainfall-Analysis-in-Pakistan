@@ -28,7 +28,7 @@ This project performs geospatial analysis on rainfall data collected from variou
 The dataset used in this project is collected from various stations in Pakistan, providing insights into regional rainfall patterns.
 
 ## Visual Representation
-![Diet Affordability Map](https://github.com/danish-abbasi-github/Geospatial-Diet-Affordability-Map/blob/main/output%20plot.png)
+![Rainfall Analysis Pak Map](https://github.com/danish-abbasi-github/Rainfall-Analysis-in-Pakistan/blob/main/output.png)
 
 ## Acknowledgments
 
